@@ -29,4 +29,5 @@ It listens for messages from clients, stores their information, and allows the s
 You can now run your server with:
 
 npm install
+
 npm start <PORT> <ADDRESS>
